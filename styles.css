@@ -10,7 +10,7 @@
 body{
     font-family: sans-serif;
     overflow: auto;
-    background-color: blueviolet;
+    background-color: rgb(158, 237, 244);
 }
 
 
@@ -24,7 +24,7 @@ body{
 
 #display{
     margin: 0 10px;
-    height: 150px;
+    height: 100px;
     width: auto;
     max-width: 270px;
     display: flex;
@@ -33,6 +33,7 @@ body{
     margin-bottom: 20px;
     overflow-x: scroll;
     background-color:whitesmoke;
+    border-radius: 10px;
 }
 
 /* #display::-webkit-scrollbar{  
@@ -82,8 +83,8 @@ button#equal{
 }  
 
 .calculator button.btn-operator{  
-    background-color: #ffd0fd;  
-    color: #f967f3;  
+    background-color: #ee83e9;  
+    color: #1d1e1a;  
 }  
 
 .calculator button.btn-equal{  
