@@ -1,7 +1,7 @@
 # JavaScript-Mini-Project
 
 # 1. Calculator 
-#### Description : - #This is a simple calculator in this we can perform Addition , Subtraction , Multiplication & Division .
+Description : - This is a simple calculator in this we can perform Addition , Subtraction , Multiplication & Division .
 
 Tech-Stack-Used : - HTML , CSS , JS , VS CODE .
 
